@@ -8,7 +8,7 @@ The functionality of the project is listed below :
 
 3.User can able to create new posts
 
-4.User can able to post on thier timeline 
+4.User can able to post on thier timeline based on the timing of the post
 
 5.Users can view others posts
 
