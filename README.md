@@ -22,7 +22,7 @@ The functionality of the project is listed below :
 
 10. The author of the post can comment back or anyone can comment on the comment.
 
-
+=================================================================================================================================================================================
 
 
 Securities used :
@@ -31,8 +31,9 @@ Securities used :
 
 2.JWT token verification techinquie for securing the protected webpages.
 
+=================================================================================================================================================================================
 
-Styling used from materialize
+Styling and components used from materialize wesite are listed below ::
 
 1.forms
 2.Buttons
@@ -40,9 +41,9 @@ Styling used from materialize
 4.colors
 5.Navbar
 
+=================================================================================================================================================================================
 
-
-How to Run the applicatrion
+How to Run the application
 
 step 1 ===>
  1.Download the zip of this project
@@ -50,12 +51,18 @@ step 1 ===>
  3.create another new folder and name it as frontend and cut the client folder and paste it in frontend folder.
  4.create another new folder and name it as backend and cut all the remaining folders present and paste it in the backdend folder.
 
- 
+================================================================================================================================================================================= 
  
 Step 2 ==>
 1.Open CMD in client folder and run ths command [ npm start   ] to run the react application 
 
-2.Without closing the first CMD ,Open another CMD in backend folder and run this command [     node     ]
+2.Without closing the first CMD ,Open another CMD in backend folder and run this command [     nodemon app     ]
+
+*Note ==> NPM should be installed in the system.
+
+=================================================================================================================================================================================
+
+
 
 
 
