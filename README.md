@@ -18,6 +18,12 @@ The functionality of the project is listed below :
 
 8.User can able to reset their password using real Email confirmation
 
+9. Other users can view the posts and the comments on the same.
+
+10. The author of the post can comment back or anyone can comment on the comment.
+
+
+
 
 Securities used :
 
@@ -35,6 +41,21 @@ Styling used from materialize
 5.Navbar
 
 
+
+How to Run the applicatrion
+
+step 1 ===>
+ 1.Download the zip of this project
+ 2.create a folder and extract there.
+ 3.create another new folder and name it as frontend and cut the client folder and paste it in frontend folder.
+ 4.create another new folder and name it as backend and cut all the remaining folders present and paste it in the backdend folder.
+
+ 
+ 
+Step 2 ==>
+1.Open CMD in client folder and run ths command [ npm start   ] to run the react application 
+
+2.Without closing the first CMD ,Open another CMD in backend folder and run this command [     node     ]
 
 
 
